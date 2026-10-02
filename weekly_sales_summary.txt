@@ -1,0 +1,12 @@
+Weekly Sales Report
+---------------------
+North: 14200 Above Average
+South: 9100 Below Average
+East: 16700 Above Average
+West: 10800 Below Average
+Central: 12400 Below Average
+
+Total: 63200
+Average: 12640.0
+Highest Weekly Sales: East 16700
+Lowest Weekly Sales: South 9100
